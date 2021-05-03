@@ -1,0 +1,25 @@
+* {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.title {
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+}
+
+
+.panel-title {
+    text-align: center;
+    font-size: 100px;
+}
+
+.panel .panel-default {
+    background-color: #E7D4B5;
+}
